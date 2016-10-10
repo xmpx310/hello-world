@@ -1,4 +1,5 @@
 <?php
 
-echo 'hello world';
+echo 'hello the world';
 echo 'change my name';
+echo phpinfo();
