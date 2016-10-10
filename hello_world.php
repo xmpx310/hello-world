@@ -2,4 +2,3 @@
 
 echo 'hello the world';
 echo 'change my name';
-echo phpinfo();
