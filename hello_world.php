@@ -1,6 +1,3 @@
 <?php
-
-echo 'hello the world';
-echo 'change my name';
-echo 111;
-echo 222;
+$logtxt = 11111;
+file_put_contents('/tmp/apply_changelogs'.date('Y-m-d'),$logtxt,FILE_APPEND);
